@@ -1,0 +1,5 @@
+/vendor
+.php_cs.cache
+.bundle
+.DS_Store
+composer.phar
